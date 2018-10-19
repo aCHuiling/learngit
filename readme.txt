@@ -7,3 +7,4 @@ Test2
 Test3
 Lerning git by Huiling
 Fighting!
+Creating a new branch is quick.
