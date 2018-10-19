@@ -8,4 +8,4 @@ Test3
 Lerning git by Huiling
 Fighting!
 Creating a new branch is quick and simple.
---no--ff
+--no--ff don't user fast-forward
