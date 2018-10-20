@@ -11,3 +11,4 @@ Creating a new branch is quick and simple.
 <<<<<<< HEAD
 --no--ff don't user fast-forward but nothing
 learning git continue!
+conflict fixed
