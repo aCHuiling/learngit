@@ -8,5 +8,6 @@ Test3
 Lerning git by Huiling
 Fighting!
 Creating a new branch is quick and simple.
+<<<<<<< HEAD
 --no--ff don't user fast-forward but nothing
-continue learning
+learning git continue!
