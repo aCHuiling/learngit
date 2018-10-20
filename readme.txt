@@ -9,3 +9,4 @@ Lerning git by Huiling
 Fighting!
 Creating a new branch is quick and simple.
 --no--ff don't user fast-forward
+learning continue
